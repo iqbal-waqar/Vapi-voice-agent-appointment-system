@@ -50,7 +50,7 @@ appointment-voice-agent/
 
 1. **Clone the repository**
    ```bash
-   git clone <[your-repo-url>](https://github.com/iqbal-waqar/Vapi-voice-agent-appointment-system)
+   git clone https://github.com/iqbal-waqar/Vapi-voice-agent-appointment-system.git
    cd appointment-voice-agent
    ```
 
