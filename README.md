@@ -140,12 +140,3 @@ The dashboard provides:
 - `canceled` - Cancellation status (boolean)
 - `created_at` - Record creation timestamp
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
-#y [FastAPI](https://fastapi.tiangolo.com/) and [Streamlit](https://streamlit.io/)
-
----
-
-**Made with ❤️ for Al Shifa Medical Center**
