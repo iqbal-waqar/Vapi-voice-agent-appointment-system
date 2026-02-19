@@ -144,14 +144,7 @@ The dashboard provides:
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-## 📄 License
-
-This project is open source and available under the MIT License.
-
-## 🙏 Acknowledgments
-
-- Built with [VAPI](https://vapi.ai) for voice AI capabilities
-- Powered by [FastAPI](https://fastapi.tiangolo.com/) and [Streamlit](https://streamlit.io/)
+#y [FastAPI](https://fastapi.tiangolo.com/) and [Streamlit](https://streamlit.io/)
 
 ---
 
